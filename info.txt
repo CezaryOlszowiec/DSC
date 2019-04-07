@@ -1,0 +1,8 @@
+The very first draft of the Dynamical Systems classifier.
+We shall see in the near future how it evolve.
+
+This project is inspired by the work of:
+- Nizhny Novgorod and Jagiellonian University Dynamical Systems Schools
+- Ioannis Kevrekidis, on applications of machine learning to Dynamical Systems
+- my PhD thesis, you may want to have a look at it https://spiral.imperial.ac.uk:8443/handle/10044/1/62644
+
